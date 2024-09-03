@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! I'm Louai, an indie game developer with a passion for creating engaging and innovative gaming experiences. With a background in computer science and a love for all things gaming, I thrive on crafting unique gameplay mechanics and compelling narratives.</p>
+<p align="left">Hi there! I'm Louai, an indie game developer with a passion for creating engaging and innovative gaming experiences. With a background in computer science and a love for all things gaming, I thrive on crafting unique gameplay mechanics and compelling narratives.I'm also a backend web developer on the side, combining my technical skills with creativity to build robust and efficient systems.</p>
 
 ###
 
